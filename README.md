@@ -71,3 +71,16 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
 * <a href="http://www.roxannecook.com/">http://www.roxannecook.com/</a>
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
+
+Please do not forget to update the README file and make sure you outline all of your optimizations done in main.js for the pizzas page.
+
+- updated the google font
+- updated analytics script loading to asynchronous
+- minified main.min.js, perfmatters.min.js and print.min.js
+- updated print.css to include a media attribute
+- removed redundant syles and combined elements in the css
+- streamlined css into html pages
+- combined bootstrap-grid.css and sytle.css into one file and minified
+- retrieved the scrollTop value once instead of in the for loop
+- changed the width style directly instead of every offset width in ramdomPizzaContainer
+- optimized code using variables
